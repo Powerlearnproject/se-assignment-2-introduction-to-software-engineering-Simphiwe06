@@ -43,13 +43,13 @@ Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
 
 
-ANSWERS:
+**ANSWERS:**
 
-1. *Define Software Engineering:*
+1. **Define Software Engineering:**
 
 Software engineering is the systematic application of engineering principles to the development of software. It involves a structured approach to building high-quality, reliable, and maintainable software systems that meet the needs of users. Unlike traditional programming, which may focus on writing code to solve a specific problem, software engineering emphasizes a well-defined process that considers the entire software lifecycle, from requirements gathering to deployment and maintenance.
 
-2. Software Development Life Cycle (SDLC):
+2. **Software Development Life Cycle (SDLC):**
 
 The Software Development Life Cycle (SDLC) is a framework that defines the stages involved in software development. It provides a structured approach for planning, creating, deploying, and maintaining software applications. Here are the common phases of SDLC:
 
@@ -78,17 +78,17 @@ Waterfall might be preferred for:
 Projects with well-defined and stable requirements
 Large, complex projects with strict regulatory compliance needs
 
-3. Requirements Engineering: 
+3. **Requirements Engineering:**
 Requirements engineering is the process of gathering, analyzing, documenting, and validating the functional and non-functional requirements of a software system. It ensures the software meets the needs of stakeholders and users. This phase is crucial as it sets the foundation for the entire development process. Incomplete or inaccurate requirements can lead to costly rework later in the SDLC.
 
-4. Software Design Principles:
+4. **Software Design Principles:**
 
 Software design principles are guidelines for creating well-structured, maintainable, and scalable software systems. One important principle is modularity. Modularity breaks down software into smaller, independent, and reusable units (modules). This improves:
 
 Maintainability: Individual modules can be easier to understand, modify, and test.
 Scalability: The system can be easily extended by adding new modules or modifying existing ones.
 
-5. Testing in Software Engineering:
+5. **Testing in Software Engineering:**
 
 Testing plays a critical role in ensuring software quality. There are different levels of testing:
 
@@ -98,7 +98,7 @@ System Testing: Tests the entire software system to ensure it meets overall requ
 Acceptance Testing: Performed by users to validate the software meets their needs before deployment.
 Testing helps identify and fix bugs early in the development process, preventing costly issues later.
 
-6. Version Control Systems (VCS):
+6. **Version Control Systems (VCS):**
 
 Version control systems (VCS) are tools that track changes to software code and data over time. They allow developers to:
 
@@ -107,7 +107,7 @@ Revert to previous versions if necessary.
 Track the history of changes and who made them.
 -One of the popular VCS systems include Git.
 
-7. Software Project Management:
+7. **Software Project Management:**
 
 A software project manager is responsible for planning, executing, and controlling software development projects. Their key tasks include:
 
@@ -122,7 +122,7 @@ Uncertainty in requirements
 Evolving technologies
 Resource constraints
 
-8. Software Maintenance:
+8. **Software Maintenance:**
 
 Software maintenance refers to the ongoing process of fixing bugs, enhancing features, and adapting software to changing needs. It is an essential part of the software lifecycle, as software rarely remains static after deployment. There are three main types of maintenance:
 
@@ -130,7 +130,7 @@ Corrective Maintenance: This involves identifying and fixing defects in the soft
 Adaptive Maintenance: This modifies the software to adapt to changes in the environment, such as new operating systems, hardware, or regulations.
 Perfective Maintenance: This adds new features or improves the performance and usability of the software.
 
-9. Ethical Considerations in Software Engineering:
+9. **Ethical Considerations in Software Engineering:**
 
 Software engineers have a responsibility to consider the ethical implications of their work. Some ethical issues include:
 
