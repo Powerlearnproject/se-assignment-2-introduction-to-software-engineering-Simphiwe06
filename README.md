@@ -45,10 +45,12 @@ Submit your completed assignment by [due date].
 
 ANSWERS:
 
-1. Define Software Engineering:
+1. *Define Software Engineering:*
+
 Software engineering is the systematic application of engineering principles to the development of software. It involves a structured approach to building high-quality, reliable, and maintainable software systems that meet the needs of users. Unlike traditional programming, which may focus on writing code to solve a specific problem, software engineering emphasizes a well-defined process that considers the entire software lifecycle, from requirements gathering to deployment and maintenance.
 
 2. Software Development Life Cycle (SDLC):
+
 The Software Development Life Cycle (SDLC) is a framework that defines the stages involved in software development. It provides a structured approach for planning, creating, deploying, and maintaining software applications. Here are the common phases of SDLC:
 
 Planning: This phase defines the project scope, feasibility, and identifies resources required.
